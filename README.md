@@ -1,16 +1,21 @@
-## Hi there 👋
+### Olá, eu sou a Eliza! 👋
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
+Sempre fui aquela pessoa que fuçava em tudo relacionado a tecnologia
+antes mesmo de saber programar — e agora estou tornando isso carreira. 🚀
 
-<!--
-**lizzsantos/lizzsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌱Atualmente aprendendo
+Java, Node.js, React e como construir APIs do zero
 
-Here are some ideas to get you started:
+#### 🎯Objetivo
+Fazer minha transição de carreira para TI o quanto antes,
+seja como estagiária ou desenvolvedora júnior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,python,nodejs,react,html,css,js,vscode,idea" />
+
+#### 📂Projetos
+- [Prisma Invest](https://github.com/lizzsantos/prisma-invest) — Fintech acadêmica com foco em interface moderna para visualização de dados financeiros.
+
+#### 📫Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elizasantospinheiro)
