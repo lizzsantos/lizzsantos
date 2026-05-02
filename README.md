@@ -1,7 +1,7 @@
 ### Olá, eu sou a Eliza! 👋
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
+Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 Sempre fui aquela pessoa que fuçava em tudo relacionado a tecnologia
-antes mesmo de saber programar — e agora estou tornando isso carreira. 🚀
+antes mesmo de saber programar — e agora estou tornando isso em carreira. 🚀
 
 #### 🌱Atualmente aprendendo
 Java, Node.js, React e como construir APIs do zero
