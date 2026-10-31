@@ -14,8 +14,5 @@ seja como estagiária ou desenvolvedora júnior.
 
 <img src="https://skillicons.dev/icons?i=java,python,nodejs,react,html,css,js,vscode,idea" />
 
-#### 📂Projetos
-- [Prisma Invest](https://github.com/lizzsantos/prisma-invest) — Fintech acadêmica com foco em interface moderna para visualização de dados financeiros.
-
 #### 📫Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elizasantospinheiro)
