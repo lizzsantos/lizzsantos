@@ -1,18 +1,24 @@
 ### Olá, eu sou a Eliza! 👋
-Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP.
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP.
 Sempre fui aquela pessoa que fuçava em tudo relacionado a tecnologia
-antes mesmo de saber programar — e agora estou tornando isso em carreira. 🚀
+antes mesmo de saber programar, e agora estou transformando isso em carreira. 🚀
 
-#### 🌱Atualmente aprendendo
-Java, Node.js, React e como construir APIs do zero
+#### 🏆 Conquistas
+- 3º lugar no NEXT FIAP 2026 (desafio Care Plus: reduzir o no-show de pacientes), em equipe
 
-#### 🎯Objetivo
-Fazer minha transição de carreira para TI o quanto antes,
-seja como estagiária ou desenvolvedora júnior.
+#### 🎯 Objetivo
+Estágio ou vaga júnior em desenvolvimento backend Java.
 
-#### 🛠️Tecnologias
+#### 🌱 Atualmente estudando
+Java avançado, Kotlin, Spring Boot e construção de APIs REST
 
-<img src="https://skillicons.dev/icons?i=java,python,nodejs,react,html,css,js,vscode,idea" />
+#### 🚀 Projetos
+- [**prisma-invest**](https://github.com/lizzsantos/prisma-invest): API REST de gestão financeira e investimentos, com Java, Spring Boot e Oracle
+- [**Jornada do Cuidado**](https://github.com/Lyllys/Jornada-do-Cuidado_Challenge-Care-Plus): App gamificado de saúde para a Care Plus com a proposta de solução digital para Reduzir o No-Show e Engajar Pacientes (HTML, CSS, JS e Bootstrap). Projeto em trio, onde fiz a tela de Níveis e contribuí em outras telas
 
-#### 📫Contato
+#### 🛠️ Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,androidstudio,git,github,idea" />
+
+#### 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elizasantospinheiro)
